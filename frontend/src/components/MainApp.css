@@ -1,0 +1,172 @@
+.main-app {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: #2c3e50;
+  margin-bottom: 30px;
+}
+
+.patient-info-section {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  margin-bottom: 30px;
+}
+
+.input-group {
+  margin-bottom: 15px;
+}
+
+.input-field {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 16px;
+  transition: border-color 0.3s ease;
+}
+
+.input-field:focus {
+  outline: none;
+  border-color: #3498db;
+}
+
+.input-field.textarea {
+  resize: vertical;
+  min-height: 100px;
+}
+
+select.input-field {
+  appearance: none;
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
+  background-repeat: no-repeat;
+  background-position: right 10px center;
+  background-size: 15px;
+  padding-right: 30px;
+}
+
+.diagnose-button {
+  display: block;
+  width: 100%;
+  padding: 12px;
+  background: #2ecc71;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.diagnose-button:hover {
+  background: #27ae60;
+}
+
+.diagnose-button:disabled {
+  background: #95a5a6;
+  cursor: not-allowed;
+}
+
+.error {
+  color: #e74c3c;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #e74c3c;
+  border-radius: 4px;
+  background: #fde8e8;
+}
+
+.diagnosis-results {
+  margin-top: 30px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #f9f9f9;
+}
+
+.primary-diagnosis {
+  margin-bottom: 20px;
+  padding: 15px;
+  background: #e8f4f8;
+  border-radius: 4px;
+}
+
+.disease-info {
+  margin-bottom: 20px;
+}
+
+.possible-diagnoses ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.possible-diagnoses li {
+  padding: 8px;
+  margin: 5px 0;
+  background: #f0f0f0;
+  border-radius: 4px;
+}
+
+.medicine-card {
+  padding: 15px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background: white;
+}
+
+.medicine-card h4 {
+  color: #2c3e50;
+  margin-bottom: 10px;
+}
+
+.medicine-card p {
+  margin: 0.5rem 0;
+  color: #34495e;
+}
+
+.medicine-card strong {
+  color: #2c3e50;
+}
+
+.medicine-analysis-section {
+  margin-top: 30px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #f9f9f9;
+}
+
+.image-upload {
+  display: block;
+  margin: 20px 0;
+  padding: 10px;
+  border: 2px dashed #3498db;
+  border-radius: 4px;
+  width: 100%;
+  cursor: pointer;
+}
+
+.loading {
+  text-align: center;
+  padding: 20px;
+  color: #3498db;
+}
+
+.not-found {
+  padding: 15px;
+  background: #fde8e8;
+  border: 1px solid #e74c3c;
+  border-radius: 4px;
+  color: #e74c3c;
+}
+
+.medicine-results {
+  margin-top: 20px;
+} 

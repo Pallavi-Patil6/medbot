@@ -1,0 +1,27 @@
+name,description,severity,contagious,precautions
+Common Cold,A viral infection of the upper respiratory tract causing mild symptoms.,Mild,Yes,Rest, stay hydrated, use over-the-counter medications, practice good hygiene
+Flu,Influenza is a viral infection that attacks the respiratory system.,Moderate,Yes,Get vaccinated, practice good hygiene, stay home when sick, rest and hydrate
+COVID-19,A respiratory illness caused by the novel coronavirus SARS-CoV-2.,Severe,Yes,Get vaccinated, wear masks, practice social distancing, maintain good hygiene
+Pneumonia,An infection that inflames the air sacs in one or both lungs.,Severe,Yes,Get vaccinated, practice good hygiene, avoid smoking, maintain good health
+Bronchitis,Inflammation of the lining of the bronchial tubes.,Moderate,Yes,Avoid smoking, get vaccinated, practice good hygiene, use humidifier
+Sinusitis,Inflammation of the sinuses causing pain and pressure.,Mild,No,Use saline nasal spray, stay hydrated, avoid irritants, use humidifier
+Allergic Rhinitis,An allergic response to airborne allergens.,Mild,No,Avoid allergens, use air filters, take antihistamines, keep windows closed
+Strep Throat,A bacterial infection causing throat pain and inflammation.,Moderate,Yes,Take antibiotics, practice good hygiene, rest, stay hydrated
+Gastroenteritis,Inflammation of the stomach and intestines.,Moderate,Yes,Stay hydrated, practice good hygiene, rest, avoid dairy products
+Migraine,A neurological condition causing severe headaches.,Moderate,No,Avoid triggers, maintain regular sleep, stay hydrated, manage stress
+Arthritis,Inflammation of the joints causing pain and stiffness.,Moderate,No,Exercise regularly, maintain healthy weight, use joint protection
+Dengue Fever,A mosquito-borne viral infection.,Severe,No,Prevent mosquito bites, eliminate breeding sites, seek medical care
+Malaria,A mosquito-borne parasitic disease.,Severe,No,Use mosquito nets, take preventive medication, eliminate breeding sites
+Tuberculosis,A bacterial infection that mainly affects the lungs.,Severe,Yes,Complete antibiotic course, practice good hygiene, get vaccinated
+Asthma,A chronic condition affecting the airways.,Moderate,No,Avoid triggers, use inhalers, maintain clean environment
+Diabetes,A chronic condition affecting blood sugar regulation.,Severe,No,Monitor blood sugar, maintain healthy diet, exercise regularly
+Hypertension,High blood pressure that can lead to serious complications.,Severe,No,Maintain healthy diet, exercise regularly, reduce stress
+Anemia,A condition where blood lacks enough healthy red blood cells.,Moderate,No,Eat iron-rich foods, take supplements, maintain balanced diet
+Thyroid Disorder,A condition affecting the thyroid gland's function.,Moderate,No,Take prescribed medication, maintain regular checkups
+food_poisoning,"Illness caused by eating contaminated food","Practice food safety, stay hydrated, rest, avoid dairy and fatty foods",moderate,no
+allergy,"Immune system reaction to foreign substances","Avoid allergens, use antihistamines, keep environment clean",mild,no
+dengue,"Mosquito-borne viral infection causing flu-like symptoms","Prevent mosquito bites, stay hydrated, rest, monitor for complications",severe,no
+sinusitis,"Inflammation of the sinuses","Use humidifier, practice nasal irrigation, rest",mild,yes
+stomach_flu,"Viral infection of the digestive system","Stay hydrated, rest, avoid dairy and fatty foods",moderate,yes
+typhoid,"Bacterial infection causing high fever and digestive issues","Practice food safety, get vaccinated, complete antibiotic course",severe,yes
+measles,"Highly contagious viral infection causing fever and rash","Get vaccinated, isolate if infected, rest",severe,yes 
