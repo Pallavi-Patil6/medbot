@@ -1,6 +1,6 @@
-# MedNexus - AI Medical Assistant
+# MedBot - AI Medical Assistant
 
-MedNexus is a web-based AI medical assistant system designed for small clinics to streamline symptom intake, diagnosis, prescription generation, and medicine recognition from images.
+MedBot is a web-based AI medical assistant system designed for small clinics to streamline symptom intake, diagnosis, prescription generation, and medicine recognition from images.
 
 ## Features
 
